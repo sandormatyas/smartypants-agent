@@ -1,7 +1,7 @@
 # smartypants agent
 
 > [!CAUTION]
-> This is a learning project, please do not use it for any other purposes.
+> This is a learning project and was not built with security considerations. Please don't use it in production or with any sensitive/important data.
 
 A coding agent written in Python, using Google's LLM models and their API.
 
